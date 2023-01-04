@@ -1,5 +1,6 @@
 this is sample menu
 
 # menu
-  1. Idle   20/-
+  1. Idle   25/-
   2. Wada   30/-
+  3. Dosa   45/-
