@@ -1,0 +1,5 @@
+this is sample menu
+
+# menu
+  1. Idle   20/-
+  2. Wada   30/-
