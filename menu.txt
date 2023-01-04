@@ -4,3 +4,6 @@ this is sample menu
   1. Idle   25/-
   2. Wada   30/-
   3. Dosa   45/-
+  4. Puri   40/-
+ 
+ timings : 7 am to 11 am
